@@ -29,11 +29,6 @@ I have a natural curiosity and a strong drive to solve complex problems. I enjoy
 As a student aspiring to launch my career in the field of data analysis and data science, I am eager to contribute to projects, internships, or research opportunities that allow me to apply my skills and learn from experienced professionals. I am open to collaborations and eager to engage in discussions on emerging trends and technologies in the industry.
 
 
-- 🌱 I’m currently learning **Tableau, SQL, Big-data**
-
-- 💬 Ask me about **python, R,**
-
-- 📫 How to reach me **shaikshareef7537@gmail.com**
 
 
 ## Projects Overview
