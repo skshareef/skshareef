@@ -42,15 +42,20 @@ Welcome to my portfolio of data analysis and machine learning projects. Feel fre
 
 ### Data Analysis Projects
 
-1. [**Project Title 1**](link_to_project1): A brief description of the project and its goals. Tools used include [Tools List].
-2. [**Project Title 2**](link_to_project2): Another data analysis project description. Tools used include [Tools List].
-3. ...
+1. [**Bank Customer Insights Dashboard: Unveiling Data-driven Financial Strategies**](https://github.com/skshareef/Bank-Customer-Insights-Dashboard-Unveiling-Data-driven-Financial-Strategies.git): Designed and developed an interactive Tableau dashboard for a bank, spotlighting customer demographics across regions, age groups, account balances, occupations, and gender distribution.
+2. [**Data-Driven Sales Analysis: Adventure Works with Power BI & DAX**](https://github.com/skshareef/Adventure-Works-Sales-Analysis-Project.git):  Sales analysis for "Adventure Works" using Microsoft Power BI and DAX. Leveraging data visualization and analytical techniques, I explored weekly revenue, profit, return rate orders, and identified monthly trends.
+3. [**Analyzing Workforce Insights with SQL Expertise**](https://github.com/skshareef/Interactive-Employee-Dashboard-Analyzing-Workforce-Insights-with-Tableau.git):  Developed an interactive Tableau dashboard, leveraging SQL queries and stored procedures to visualize workforce metrics like employee gender breakdown and average annual salary.
+4. [**ChatGPT Analytics Dashboard: Unveiling Usage Trends, Awareness, and Traffic Sources**](https://github.com/skshareef/ChatGPT-Analytics-Dashboard-Unveiling-Usage-Trends-Awareness-and-Traffic-Sources.git): The ChatGPT Analytics Dashboard is a data analysis project developed using Microsoft Power BI. It aims to analyze and visualize data related to the usage of ChatGPT, a language model powered by OpenAI. 
+5. [**Startup Sales Insights: WeWashUSleep Tableau Dashboard**](https://github.com/skshareef/Startup-Sales-Insights-WeWashUSleep-Tableau-Dashboard.git):Analyzed sales data for WeWashUSleep startup, specializing in smaller city expansion. Developed an interactive Tableau dashboard to compare regional performance, revenue between established and new cities, and guide investment decisions based on population and marketing spending.
+6. [**Stock Performance Analytics Dashboard: Analyzing Test Stock's Trends and Insights**](https://github.com/skshareef/The-Stock-Performance-Analytics-Dashboard-Analyzing-Test-Stock-s-Trends-and-Insights.git):This project focuses on Tesla Stock, providing an in-depth analysis of its performance over recent months. The interactive dashboard, crafted using Python's data manipulation and visualization libraries, presents key metrics, including highest and lowest prices, average closing prices, and trading volume.  
 
 ### Machine Learning Projects
 
-1. [**Project Title 3**](link_to_project3): Describe the machine learning project, its objectives, and dataset. Algorithms used: [Algorithms List].
-2. [**Project Title 4**](link_to_project4): Another machine learning project description. Algorithms used: [Algorithms List].
-3. ...
+1. [**Quality Evaluation of Skull Stripped Brain MRI Images**](https://github.com/skshareef/Quality-Evaluation-of-Skull-Stripped-Brain-Images.git): Designed and implemented an automated system to evaluate the quality of skull stripped images using robust metrics such as volumetric overlap, surface distance, and anatomical consistency, ensuring efficient and reliable assessment of segmentation results.
+2. [**Rating Predictions from reviews given to products in online markets**](https://github.com/skshareef/Rating-Predictions-from-reviews-given-to-products-in-online-markets.git)): Developed and implemented models for fine-grained aspect-based analysis of product reviews using Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM), and Bidirectional Encoder Representations from Transformers (BERT).
+3. [**Real Time Face Mask Detection**](https://github.com/skshareef/face_mask_detector_with_streamlit.git): Developed a real-time face mask detection system using TensorFlow, achieving accurate detection in video streams, and integrated it with Streamlit for seamless visualization and user-friendly interaction.
+4. [**Movie Receommender System**](https://github.com/skshareef/movie-recomendation-system.git): Developed a Graphical User Interface for Movie recommendation system using Streamlit
+
 
 
 <h3 align="left">Connect with me:</h3>
