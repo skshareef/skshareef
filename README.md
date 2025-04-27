@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shareef Shaik</h1>
 <h3 align="center">Machine Learning Engineer focused on the intersection of AI and Robotics (MS Computer Science).</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*9I95oSSQsiboWhya8un3zQ.gif">
 Hi there 👋 I'm Shareef, a Machine Learning Engineer with a passion for Robotics and AI applications, holding an MS in Computer Science.
 
 - 🔭 My repositories often involve projects using deep learning for perception and autonomous navigation (ROS/ROS2).
