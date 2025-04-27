@@ -1,48 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shareef Shaik</h1>
-<h3 align="center">Enthusiastic Data Analyst & Data Scientist | Aspiring Problem-Solver | Eager to Drive Insights from Data</h3>
+<h3 align="center">Machine Learning Engineer focused on the intersection of AI and Robotics (MS Computer Science).</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*9I95oSSQsiboWhya8un3zQ.gif">
+Hi there 👋 I'm Shareef, a Machine Learning Engineer with a passion for Robotics and AI applications, holding an MS in Computer Science.
 
+- 🔭 My repositories often involve projects using deep learning for perception and autonomous navigation (ROS/ROS2).
+- 🌱 Keenly interested in Computer Vision, Sensor Fusion, MLOps practices, and optimizing models for edge devices.
+- 🛠️ Key Technologies: Python, C++, PyTorch, TensorFlow, AWS, Docker, CUDA, Git.
+- ✨ Actively seeking challenging full-time roles where I can apply and grow my skills in Machine Learning and Robotics Engineering.
 
-
-
-🔎 Data Analysis | Data Science | Problem-Solving | Continuous Learner
-
-## 🎓Education
-
-Currently pursuing my Master's degree in Computer Science at Clemson University, I am developing a solid foundation in data analysis and data science. Through my coursework, I have gained proficiency in various statistical techniques, programming languages such as Python and R, and data visualization tools. I am eager to apply my theoretical knowledge to real-world scenarios.
-
-## 💡Data Analysis Skills
-
-I have been actively engaged in projects and coursework that involve data analysis. I have experience in cleaning and preprocessing data, performing exploratory data analysis, and generating meaningful insights using statistical methods. I enjoy working with tools like Excel, SQL, and data visualization libraries to present data in a visually appealing and understandable manner.
-
-## 💻Data Science Aspirations
-
-My interest in data science has driven me to explore machine learning algorithms, predictive modeling, and data mining techniques. I have embarked on self-learning journeys, taking online courses and participating in coding competitions to enhance my skills in these areas. I am eager to apply these techniques to solve real-world problems and uncover hidden patterns in data.
-
-## 🧠Problem-Solving Mindset
-
-I have a natural curiosity and a strong drive to solve complex problems. I enjoy working on challenging projects that require analytical thinking and creative problem-solving.
-
-## 📈Seeking Opportunities
-
-As a student aspiring to launch my career in the field of data analysis and data science, I am eager to contribute to projects, internships, or research opportunities that allow me to apply my skills and learn from experienced professionals. I am open to collaborations and eager to engage in discussions on emerging trends and technologies in the industry.
-
+Explore my projects below and feel free to connect on [LinkedIn](link-to-your-linkedin)!
 
 
 
 ## Projects Overview
 
 Welcome to my portfolio of data analysis and machine learning projects. Feel free to explore the following categories:
-
-### Data Analysis Projects
-
-1. [**Bank Customer Insights Dashboard: Unveiling Data-driven Financial Strategies**](https://github.com/skshareef/Bank-Customer-Insights-Dashboard-Unveiling-Data-driven-Financial-Strategies.git): Designed and developed an interactive Tableau dashboard for a bank, spotlighting customer demographics across regions, age groups, account balances, occupations, and gender distribution.
-2. [**Data-Driven Sales Analysis: Adventure Works with Power BI & DAX**](https://github.com/skshareef/Adventure-Works-Sales-Analysis-Project.git):  Sales analysis for "Adventure Works" using Microsoft Power BI and DAX. Leveraging data visualization and analytical techniques, I explored weekly revenue, profit, return rate orders, and identified monthly trends.
-3. [**Analyzing Workforce Insights with SQL Expertise**](https://github.com/skshareef/Interactive-Employee-Dashboard-Analyzing-Workforce-Insights-with-Tableau.git):  Developed an interactive Tableau dashboard, leveraging SQL queries and stored procedures to visualize workforce metrics like employee gender breakdown and average annual salary.
-4. [**ChatGPT Analytics Dashboard: Unveiling Usage Trends, Awareness, and Traffic Sources**](https://github.com/skshareef/ChatGPT-Analytics-Dashboard-Unveiling-Usage-Trends-Awareness-and-Traffic-Sources.git): The ChatGPT Analytics Dashboard is a data analysis project developed using Microsoft Power BI. It aims to analyze and visualize data related to the usage of ChatGPT, a language model powered by OpenAI. 
-5. [**Startup Sales Insights: WeWashUSleep Tableau Dashboard**](https://github.com/skshareef/Startup-Sales-Insights-WeWashUSleep-Tableau-Dashboard.git):Analyzed sales data for WeWashUSleep startup, specializing in smaller city expansion. Developed an interactive Tableau dashboard to compare regional performance, revenue between established and new cities, and guide investment decisions based on population and marketing spending.
-6. [**Stock Performance Analytics Dashboard: Analyzing Test Stock's Trends and Insights**](https://github.com/skshareef/The-Stock-Performance-Analytics-Dashboard-Analyzing-Test-Stock-s-Trends-and-Insights.git):This project focuses on Tesla Stock, providing an in-depth analysis of its performance over recent months. The interactive dashboard, crafted using Python's data manipulation and visualization libraries, presents key metrics, including highest and lowest prices, average closing prices, and trading volume.  
 
 ### Machine Learning Projects
 
